@@ -1,6 +1,8 @@
 # snp.logistic
 Logistic regression analysis for a single SNP Use snp.logistic (CGEN) With (In) R Software
 
+https://www.youtube.com/watch?v=zqef7Hawfyw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
